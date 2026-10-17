@@ -1,0 +1,5 @@
+Model,RMSE,MAE,MAPE_%,R2
+Gradient Boosting,2.9614,2.1852,3.6815,0.9791
+Random Forest,3.1179,2.2502,3.7842,0.9768
+Linear Regression,4.3145,3.2917,5.8333,0.9556
+Baseline (same hour yesterday),11.7232,6.6117,10.2825,0.6719
